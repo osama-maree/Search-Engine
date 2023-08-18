@@ -2,6 +2,7 @@
 
 ##### UI and Test
 ![s1](https://github.com/osama-maree/Search-Engine/assets/108696087/f94406d8-eabb-46e5-9af2-90c6703a54f8)
+#### When Build Inverted Index
 ![s2](https://github.com/osama-maree/Search-Engine/assets/108696087/7e1fdb3e-a8cc-4e1f-9a1e-4d38fc71b3dd)
 ![screencapture-localhost-3001-2023-08-18-12_02_07](https://github.com/osama-maree/Search-Engine/assets/108696087/9c1ee7f6-4f71-4bc4-bcbf-9b254803af49)
 ![screencapture-localhost-3001-2023-08-18-12_02_23](https://github.com/osama-maree/Search-Engine/assets/108696087/4381e73e-2abb-4b39-879b-19820c8bbb47)
